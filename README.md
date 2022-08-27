@@ -1,5 +1,5 @@
 ## Yaklaşık 40 star 10 fork gelince paylaşıcam <3
-Az kalmış 40 star olana kadar v14 yapar paylaşırım ❤️
+Star olmuş fork te gelsin paylaşırım <br><br>
 <img src="https://komarev.com/ghpvc/?username=Guard-Bot&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/Guard-Bot" />
 https://github.com/Approval-Denial/last-seen <h3>Buraya Bağğkk</h3>
 5 dakikadan az bir sürede 1.2k üye ve 250 kanal <3
