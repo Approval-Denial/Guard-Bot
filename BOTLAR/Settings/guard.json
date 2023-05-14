@@ -1,0 +1,20 @@
+{
+  "guildID": "DİSCORD.GG/LUPPUX",
+  "whiteListFull": [
+    "852800814808694814"
+  ],
+  "whiteListRoles": [],
+  "whiteListChannels": [],
+  "bankickwh": [],
+  "Bots": [],
+  "channelLog": "DİSCORD.GG/LUPPUX",
+  "serverLog": "DİSCORD.GG/LUPPUX",
+  "roleLog": "DİSCORD.GG/LUPPUX",
+  "databaseLog": "DİSCORD.GG/LUPPUX",
+  "WebLog": "DİSCORD.GG/LUPPUX",
+  "channelGuard": true,
+  "serverGuard": true,
+  "roleGuard": true,
+  "capsGuard": true,
+  "urlGuard": true
+}
