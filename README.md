@@ -9,7 +9,7 @@
   
 # Luppux Team 💥
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/379179073382907908?hideDiscrim=true)](https://discord.com/users/379179073382907908)
+[![Discord Presence](https://lanyard.cnrad.dev/api/379179073382907908)](https://discord.com/users/379179073382907908)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852800814808694814?hideDiscrim=true)](https://discord.com/users/852800814808694814)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928259219038302258?theme=light&hideDiscrim=true&hideBadges=false&bg=376074&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla)](https://discord.com/users/928259219038302258)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/341592492224806914?hideDiscrim=true)](https://discord.com/users/341592492224806914)
