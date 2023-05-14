@@ -1,5 +1,5 @@
 # V13 Guard
-- Destek Sunucusu [Luppux Team](https://discord.gg/luppux)
+- Destek Sunucusu: [Luppux Team](https://discord.gg/luppux)
 - Yeni guard sistemi yaptığım için bunu paylaşıyorum alın hayrını görün zaten benimde değildi baya eksiği olan bir alt yapıydı aldım geliştirdim, ardından kendime de yenisini yaptım!
 ![image](https://github.com/Approval-Denial/Guard-Bot/assets/74969246/53c2f523-62a4-44f5-b8ce-5d277b3eae72)
 
