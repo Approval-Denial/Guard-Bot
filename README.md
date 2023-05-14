@@ -3,7 +3,7 @@
 - Yeni guard sistemi yaptığım için bunu paylaşıyorum alın hayrını görün zaten benimde değildi baya eksiği olan bir alt yapıydı aldım geliştirdim, ardından kendime de yenisini yaptım!
 ![image](https://github.com/Approval-Denial/Guard-Bot/assets/74969246/53c2f523-62a4-44f5-b8ce-5d277b3eae72)
 
-- Benim ve içinde bulunduğum ekibimin alt yapısıda budur; <p>
+- Benim ve içinde bulunduğum ekibimin alt yapısıda budur; <p> 
 ![image](https://github.com/Approval-Denial/Guard-Bot/assets/74969246/db44db67-46dc-49b0-8d77-110040948d8d)
 
   
